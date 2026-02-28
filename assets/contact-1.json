@@ -1,0 +1,33 @@
+{
+  "id": 1,
+  "categorie": "sport",
+  "naam": "Sporthal De Kracht",
+  "contactpersoon": {
+    "naam": "Lars Vermeersch",
+    "functie": "Coördinator"
+  },
+  "adres": {
+    "straat": "Sportstraat",
+    "nummer": 12,
+    "postcode": "2000",
+    "stad": "Antwerpen"
+  },
+  "telefoon": "+32 3 123 45 67",
+  "email": "info@sporthal-dekracht.be",
+  "website": "https://www.sporthal-dekracht.be",
+  "logo_url": "https://placehold.co/200x200/2dbe6c/ffffff?text=DK",
+  "openingsuren": {
+    "maandag":    "08:00 - 22:00",
+    "dinsdag":    "08:00 - 22:00",
+    "woensdag":   "08:00 - 22:00",
+    "donderdag":  "08:00 - 22:00",
+    "vrijdag":    "08:00 - 21:00",
+    "zaterdag":   "09:00 - 18:00",
+    "zondag":     "10:00 - 16:00"
+  },
+  "sociale_media": {
+    "facebook":  "https://facebook.com/sporthal.dekracht",
+    "instagram": "https://instagram.com/sporthal_dekracht",
+    "twitter":   null
+  }
+}

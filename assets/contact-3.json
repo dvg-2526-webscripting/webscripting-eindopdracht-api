@@ -1,0 +1,33 @@
+{
+  "id": 3,
+  "categorie": "mentaal",
+  "naam": "Yoga & Meditatie Studio Groenstad",
+  "contactpersoon": {
+    "naam": "Aisha Nkosi",
+    "functie": "Studio-eigenaar"
+  },
+  "adres": {
+    "straat": "Gezondheidsweg",
+    "nummer": 7,
+    "postcode": "2000",
+    "stad": "Antwerpen"
+  },
+  "telefoon": "+32 3 345 67 89",
+  "email": "hallo@yogagroenstad.be",
+  "website": "https://www.yogagroenstad.be",
+  "logo_url": "https://placehold.co/200x200/7b5ea7/ffffff?text=YG",
+  "openingsuren": {
+    "maandag":    "09:00 - 20:00",
+    "dinsdag":    "09:00 - 20:00",
+    "woensdag":   "09:00 - 20:00",
+    "donderdag":  "09:00 - 20:00",
+    "vrijdag":    "09:00 - 19:00",
+    "zaterdag":   "10:00 - 16:00",
+    "zondag":     "gesloten"
+  },
+  "sociale_media": {
+    "facebook":  "https://facebook.com/yogagroenstad",
+    "instagram": "https://instagram.com/yoga_groenstad",
+    "twitter":   null
+  }
+}

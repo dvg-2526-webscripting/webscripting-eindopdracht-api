@@ -1,0 +1,33 @@
+{
+  "id": 2,
+  "categorie": "voeding",
+  "naam": "Groente & Fruit Markt Groentelaan",
+  "contactpersoon": {
+    "naam": "Fien Claes",
+    "functie": "Marktbeheerder"
+  },
+  "adres": {
+    "straat": "Groentelaan",
+    "nummer": 1,
+    "postcode": "2000",
+    "stad": "Antwerpen"
+  },
+  "telefoon": "+32 3 234 56 78",
+  "email": "contact@groentelaan-markt.be",
+  "website": "https://www.groentelaan-markt.be",
+  "logo_url": "https://placehold.co/200x200/f4a261/ffffff?text=GM",
+  "openingsuren": {
+    "maandag":    "gesloten",
+    "dinsdag":    "08:00 - 17:00",
+    "woensdag":   "08:00 - 17:00",
+    "donderdag":  "08:00 - 17:00",
+    "vrijdag":    "08:00 - 17:00",
+    "zaterdag":   "07:00 - 15:00",
+    "zondag":     "gesloten"
+  },
+  "sociale_media": {
+    "facebook":  "https://facebook.com/groentelaan.markt",
+    "instagram": "https://instagram.com/groentelaan_markt",
+    "twitter":   "https://twitter.com/groentemarkt"
+  }
+}
